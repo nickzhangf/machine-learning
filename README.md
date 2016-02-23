@@ -4,3 +4,5 @@
 读取文本数据，转换成矩阵
 ### linearPlot
 绘制线性图
+### jiebaWordSegmentation
+jieba中文分词
