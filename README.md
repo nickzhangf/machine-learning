@@ -6,3 +6,5 @@
 绘制线性图
 ### jiebaWordSegmentation
 jieba中文分词
+### tf-idf
+计算tf-idf
